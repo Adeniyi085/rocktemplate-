@@ -1,0 +1,19 @@
+#home {
+  background-color: lightpink important!;
+}
+.w3-container {
+  padding: 0;
+  margin: auto;
+  widows: 100px;
+}
+
+.section-follow .fa-3x {
+  margin: 5px 10px;
+}
+.w3-justify {
+  margin-right: 10px important!;
+  margin-left: 10px important!;
+}
+.socialmedia {
+  margin-top: 0 important!;
+}
